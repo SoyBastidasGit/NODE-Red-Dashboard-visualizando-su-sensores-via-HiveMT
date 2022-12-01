@@ -16,4 +16,8 @@ Estos sensores se probaron en la Pico W usando el lenguaje Micropython.
 * Verjan Santoyo Edgar
 * Vazquez Gutierrez Johan Sebastian
 
+# LOOM
+https://www.loom.com/share/c30743eb4dbb4b518bdae19a0e2fb533
+
+
 ![Alt text](https://github.com/JesusEstrad4/Sensores_Pico_W/blob/main/Imagenes_presentacion/Pico.jpg)
